@@ -1,20 +1,3 @@
 # 🏦 ATM Management System (Python – OOPS)
-
-## 📌 Project Overview
-The **ATM Management System** is a console-based Python application developed using **Object-Oriented Programming (OOPS)** concepts.  
-It simulates basic ATM operations such as checking balance, depositing money, withdrawing money, and viewing account details.
-
-This project helps in understanding how real-world banking systems can be modeled using classes, objects, inheritance, abstraction, and polymorphism.
-
-## 🎯 Objectives
-- To understand and implement **OOPS concepts in Python**
-- To simulate real-time ATM functionality
-- To improve logical thinking and program structure
-- To build a beginner-friendly mini project
-
-## 🛠️ Technologies Used
-- **Programming Language:** Python 3
-- **Concepts:** Object-Oriented Programming (OOPS)
-- **Environment:** Terminal / Command Prompt
-
+The ATM Management System is a console-based mini project developed using Python by applying Object-Oriented Programming (OOPS) concepts to simulate basic banking operations. In this system, the user can perform essential ATM functions such as checking account balance, depositing money, withdrawing money, and viewing account details through a menu-driven interface. The project uses classes and objects to represent real-world entities like bank accounts and ATM operations, ensuring proper data encapsulation and structured program flow. The system continues to run until the user chooses to exit, providing a realistic interaction similar to an actual ATM environment. This project helps in understanding how OOPS concepts such as abstraction, inheritance, and polymorphism can be used to design simple real-time applications in Python while improving logical thinking and programming skills.
 
